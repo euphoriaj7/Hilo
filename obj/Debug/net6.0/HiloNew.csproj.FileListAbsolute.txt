@@ -1,0 +1,15 @@
+C:\Users\jthom\Programming_classes_c#\HiloNew\bin\Debug\net6.0\HiloNew.exe
+C:\Users\jthom\Programming_classes_c#\HiloNew\bin\Debug\net6.0\HiloNew.deps.json
+C:\Users\jthom\Programming_classes_c#\HiloNew\bin\Debug\net6.0\HiloNew.runtimeconfig.json
+C:\Users\jthom\Programming_classes_c#\HiloNew\bin\Debug\net6.0\HiloNew.dll
+C:\Users\jthom\Programming_classes_c#\HiloNew\bin\Debug\net6.0\ref\HiloNew.dll
+C:\Users\jthom\Programming_classes_c#\HiloNew\bin\Debug\net6.0\HiloNew.pdb
+C:\Users\jthom\Programming_classes_c#\HiloNew\obj\Debug\net6.0\HiloNew.csproj.AssemblyReference.cache
+C:\Users\jthom\Programming_classes_c#\HiloNew\obj\Debug\net6.0\HiloNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jthom\Programming_classes_c#\HiloNew\obj\Debug\net6.0\HiloNew.AssemblyInfoInputs.cache
+C:\Users\jthom\Programming_classes_c#\HiloNew\obj\Debug\net6.0\HiloNew.AssemblyInfo.cs
+C:\Users\jthom\Programming_classes_c#\HiloNew\obj\Debug\net6.0\HiloNew.csproj.CoreCompileInputs.cache
+C:\Users\jthom\Programming_classes_c#\HiloNew\obj\Debug\net6.0\HiloNew.dll
+C:\Users\jthom\Programming_classes_c#\HiloNew\obj\Debug\net6.0\ref\HiloNew.dll
+C:\Users\jthom\Programming_classes_c#\HiloNew\obj\Debug\net6.0\HiloNew.pdb
+C:\Users\jthom\Programming_classes_c#\HiloNew\obj\Debug\net6.0\HiloNew.genruntimeconfig.cache
